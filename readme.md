@@ -15,5 +15,5 @@ Wszystkie projekty zaliczeniowe będą poddawane sprawdzeniu systemem antyplagia
 ## Materiały dydaktyczne
 1. [Programowanie zorientowane obiektowo](https://github.com/betacord/ZPO/blob/main/1_oop.ipynb)
 2. [Wzorce kreacyjne](https://github.com/betacord/ZPO/blob/main/2_creational_patterns.ipynb)
-3. Wzorce strukturalne
+3. [Wzorce strukturalne](https://github.com/betacord/ZPO/blob/main/3_structural_patterns.ipynb)
 4. Wzorce czynnościowe
