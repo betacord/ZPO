@@ -43,6 +43,9 @@ Projekt polega na stworzeniu aplikacji konsolowej przeznaczonej do zarządzania 
 6. Symulowane integracja z zewnętrzną bazą książek:
    1. możliwość "pobrania" danych książki z zewnętrznej bazy danych na podstawie ISBN.
 
+### Termin oddania
+3 czerwca 2025.
+
 ## Samodzielność pracy
 Wszystkie projekty zaliczeniowe będą poddawane sprawdzeniu systemem antyplagiatowym oraz systemem wykrywającym udział rozwiązań automatycznych w powstawaniu rozwiązania. W przypadku stwierdzenia niesamodzielności, student uzyskuje ocenę niedostateczną bez możliwości poprawy. Niewykluczone są również dalsze konsekwencje dyscyplinarne.
 
