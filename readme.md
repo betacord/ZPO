@@ -21,7 +21,7 @@ Projekt polega na stworzeniu aplikacji konsolowej przeznaczonej do zarządzania 
 
 **Ocena dobra**: poprawne i uzasadnione zastosowanie dwóch wzorców kreacyjnych, dwóch wzorców strukturalnych oraz jednego wzorca czynnościowego (łącznie 5).
 
-**Ocena bardzo dobra**: poprawne i uzasadnione zastosowanie dwóch wzorców kreacyjnych, dwóch wzorców strukturalnych oraz dwóch wzorców czynnościowych(łącznie 6). Dodatkowo, wykorzystać dowolne narzędzie do utworzenia czytelnego interfejsu (np. biblioteka [typer](https://pypi.org/project/typer/)).
+**Ocena bardzo dobra**: poprawne i uzasadnione zastosowanie dwóch wzorców kreacyjnych, dwóch wzorców strukturalnych oraz dwóch wzorców czynnościowych(łącznie 6). Dodatkowo, wykorzystać dowolne narzędzie do utworzenia czytelnego interfejsu (np. biblioteka [typer](https://pypi.org/project/typer/), [rich](https://pypi.org/project/rich/)).
 
 ### Wymagania funkcjonalne
 1. Zarządzanie użytkownikami:
