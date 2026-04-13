@@ -10,6 +10,8 @@
 
 ### Tematyka projektu
 
+**Wariant 1**: Na ocenę bardzo dobrą.
+
 Symulator zarządzania biblioteką
 
 Projekt polega na stworzeniu aplikacji konsolowej przeznaczonej do zarządzania biblioteką. Użytkownicy mogą wypożyczać, oddawać, rezerwować książki. Projekt w finalnej wersji ma wykorzystywać minimum po 2 wzorce z każdej grupy: kreacyjnych, strukturalnych oraz czynnościowych. Dobór ich do realizacji konkretnych funkcjonalności jest w pełni dowolny.
@@ -43,8 +45,11 @@ Projekt polega na stworzeniu aplikacji konsolowej przeznaczonej do zarządzania 
 6. Symulowane integracja z zewnętrzną bazą książek:
    1. możliwość "pobrania" danych książki z zewnętrznej bazy danych na podstawie ISBN.
 
+**Wariant 2**: Na ocenę dostateczną
+TODO
+
 ### Termin oddania
-3 czerwca 2025.
+9 czerwca 2026.
 
 ## Samodzielność pracy
 Wszystkie projekty zaliczeniowe będą poddawane sprawdzeniu systemem antyplagiatowym oraz systemem wykrywającym udział rozwiązań automatycznych w powstawaniu rozwiązania. W przypadku stwierdzenia niesamodzielności, student uzyskuje ocenę niedostateczną bez możliwości poprawy. Niewykluczone są również dalsze konsekwencje dyscyplinarne.
