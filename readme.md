@@ -46,7 +46,27 @@ Projekt polega na stworzeniu aplikacji konsolowej przeznaczonej do zarządzania 
    1. możliwość "pobrania" danych książki z zewnętrznej bazy danych na podstawie ISBN.
 
 **Wariant 2**: Na ocenę dostateczną
-TODO
+Aplikacja konsolowa przeznaczona do zarządzania domowymi zapasami spożywczymi (spiżarnia).
+
+### Zasady oceniania
+Na ocenę dostateczną wymagane jest oddanie w pełni funckjonującego i poprawnie opracowanego projektu.
+
+### Wymagania funkcjonalne
+1. Zarządzanie zapasami
+    1. Dodawanie produktu (nazwa, ilość, jednostka, data ważności).
+    2. Aktualizacja stanu.
+    3. Usuwanie produktu.
+2. Monitoring zapasów 
+    1. Przegląd zapasów poprzez wyświetlanie przejrzystej tabeli .
+    2. Ostrzeżenia przed upływem daty ważności, np. 3 dni przed terminem.
+3. Automatyczna lista zakupów
+    1. Lista ustalana na podstawie ustalonych minimów, np. jeśli w spiżarni znajdują się tylko 2 kg ziemniaków, to pozycja ta automatycznie trafia na listę zakupów celem uzupełnienia do minimalnego zapasu np. 5 kg.
+    2. Generowanie gotowej listy zakupów za pomocą jednej komendy.
+4. Zapis danych
+    1. Do działania należy wykorzystać dowolną bazę danych lub plik przechowujący stan spiżarni.
+  
+**Wymagania pozostałe**
+Z uwagi na charakter przedmiotu, aplikacja musi być zrealizowana z zastosowaniem najlepszych praktyk programowania zorientowanego obiektowo. Dodatkowo, podczas opracowywania proszę wykorzystać biblioteki [typer](https://pypi.org/project/typer/) oraz [rich](https://pypi.org/project/rich/)) do przygotowania przejrzystego interfejsu CLI.
 
 ### Termin oddania
 9 czerwca 2026.
